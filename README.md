@@ -73,6 +73,8 @@ I also created a **Date Table** to support time intelligence (YoY growth, trends
 
 📷 Dashboard Preview:  
 ![Retail Sales Dashboard](https://github.com/divyamehulmakwana-bit/Retail-Sales-Analysis-using-Python-and-Power-Bi/blob/main/Screenshots/Report.png)  
+
+Pink Theme:
 ![Retail Sales Dashboard](https://github.com/divyamehulmakwana-bit/Retail-Sales-Analysis-using-Python-and-Power-Bi/blob/main/Screenshots/Pink%20Theme.png) 
 
 
